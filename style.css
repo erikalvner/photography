@@ -6,7 +6,7 @@
 
 body{
 	background:url(bilder/Uni.jpg);
-	background-size: contain;
+	background-size: 0 100%;
 	background-attachment: fixed;
 	background-position: center;
 }
